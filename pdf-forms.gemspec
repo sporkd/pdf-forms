@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.name        = "pdf-forms"
   s.version     = PdfForms::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Jens Krämer"]
+  s.authors     = ["Jens Kramer"]
   s.email       = ["jk@jkraemer.net"]
   s.homepage    = "http://github.com/jkraemer/pdf-forms"
   s.summary     = %q{Fill out PDF forms with pdftk (http://www.accesspdf.com/pdftk/).}
