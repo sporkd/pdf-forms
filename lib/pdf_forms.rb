@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 require 'pdf_forms/version'
 require 'pdf_forms/fdf'
 require 'pdf_forms/pdf'

@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 module PdfForms
   class Pdf
     attr_reader :path

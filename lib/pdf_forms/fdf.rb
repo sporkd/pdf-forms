@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 module PdfForms
   
   # Map keys and values to Adobe's FDF format.

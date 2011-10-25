@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 require 'tempfile'
 module PdfForms
   # Wraps calls to PdfTk
